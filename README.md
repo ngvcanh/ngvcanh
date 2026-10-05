@@ -197,7 +197,20 @@ Organizations: [**runsnip**](https://github.com/runsnip) · [**material-atomic**
   </tr>
 </table>
 
-**Education** — HUTECH University, Information Technology (2015–2018) · Dong Nai University, Mathematics &amp; Informatics Pedagogy (2008–2011)
+<br/>
+
+## 🎓 Education
+
+<table width="100%">
+  <tr>
+    <td width="150" align="center" valign="top"><img src="https://img.shields.io/badge/2015_–_2018-366bd3?style=flat-square"/></td>
+    <td valign="top"><b>HUTECH University</b><br/>Information Technology</td>
+  </tr>
+  <tr>
+    <td width="150" align="center" valign="top"><img src="https://img.shields.io/badge/2008_–_2011-22458c?style=flat-square"/></td>
+    <td valign="top"><b>Dong Nai University</b><br/>Mathematics &amp; Informatics Pedagogy</td>
+  </tr>
+</table>
 
 <br/>
 
