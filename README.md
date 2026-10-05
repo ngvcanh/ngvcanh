@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3568,50:366bd3,100:5f8ce3&height=220&section=header&text=Canh%20Nguyen&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%C2%B7%20Products%2C%20AI%20%26%20Infrastructure&descAlignY=58&descSize=18&descColor=bcd0f6" alt="Canh Nguyen — Software Engineer · Products, AI & Infrastructure"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3568,50:366bd3,100:5f8ce3&height=220&section=header&text=Canh%20Nguyen&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%C2%B7%20Products%2C%20AI%20and%20Infrastructure&descAlignY=58&descSize=18&descColor=bcd0f6" alt="Canh Nguyen — Software Engineer · Products, AI & Infrastructure"/>
 </div>
 
 <div align="center">
